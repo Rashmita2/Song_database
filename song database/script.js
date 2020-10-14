@@ -1,52 +1,52 @@
 
 let movies = [
     {
-        title: "Fight Club",
+        title: "All about that Bass",
         rank: 10,
         id: "tt0137523"
     },
     {
-        title: "The Shawshank Redemption",
+        title: "Lean on",
         rank: 1,
         id: "tt0111161"
     },
     {
-        title: "The Lord of the Rings: The Return of the King",
+        title: "Sugar",
         rank: 9,
         id: "tt0167260"
     },
     {
-        title: "The Godfather",
+        title: "Roar",
         rank: 2,
         id: "tt0068646"
     },
     {
-        title: "The Good, the Bad and the Ugly",
+        title: "Hello",
         rank: 5,
         id: "tt0060196"
     },
     {
-        title: "The Godfather: Part II",
+        title: "Blank Space",
         rank: 3,
         id: "tt0071562"
     },
     {
-        title: "The Dark Knight",
+        title: "Shake it off",
         rank: 6,
         id: "tt0468569"
     },
     {
-        title: "Pulp Fiction",
+        title: "Sorry",
         rank: 4,
         id: "tt0110912"
     },
     {
-        title: "Schindler's List",
+        title: "Uptown Funk",
         rank: 8,
         id: "tt0108052"
     },
     {
-        title: "12 Angry Men",
+        title: "See you again",
         rank: 7,
         id: "tt0050083"
     }
